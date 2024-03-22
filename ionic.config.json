@@ -1,0 +1,7 @@
+{
+  "name": "ran",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
